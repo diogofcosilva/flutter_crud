@@ -17,6 +17,7 @@ class UserList extends StatelessWidget {
           IconButton(
             icon: Icon(Icons.add),
             onPressed: () {
+              // adicionar usuário
               // users.put(
               //     User(name: 'Teste', email: 'teste@teste.com', avatarUrl: ''));
 
